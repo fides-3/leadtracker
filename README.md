@@ -1,6 +1,1 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+A chrome extension that helps you keep track ot the tabs opened
